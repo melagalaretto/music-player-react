@@ -26,7 +26,9 @@ const App = () => {
 	return (
 		<div className="container">
 			<div className="page-header">
-				<h1 className="text-center">Music Player With React</h1>
+				<h1 className="text-center text-white">
+					Music Player With React
+				</h1>
 			</div>
 			<div className="wrapper">
 				<SoundList
